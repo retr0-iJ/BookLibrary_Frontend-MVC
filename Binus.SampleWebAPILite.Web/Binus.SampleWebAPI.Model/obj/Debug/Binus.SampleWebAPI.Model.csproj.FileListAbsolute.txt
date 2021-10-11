@@ -1,0 +1,17 @@
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPI.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPI.Model.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\RestSharp.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\EntityFramework.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.Model.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\RestSharp.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\bin\Debug\EntityFramework.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPI.Model.csprojResolveAssemblyReference.cache
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPI.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\WebAPIMVCSample\Binus.SampleWebAPI.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPI.Model.pdb
